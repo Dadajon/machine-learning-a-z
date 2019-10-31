@@ -1,6 +1,6 @@
 # Welcome to Part 2 - Regression!
 
-![Regression](https://www.mcal.in/wp-content/uploads/2017/11/joke_regression_ml.jpg)
+![Regression](https://www.explainxkcd.com/wiki/images/2/24/curve_fitting.png)
 
 Regression models (both linear and non-linear) are used for predicting a real value, like salary for example. If your independent variable is time, then you are forecasting future values, otherwise your model is predicting present but unknown values. Regression technique vary from Linear Regression to SVR and Random Forests Regression.
 
