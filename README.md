@@ -1,6 +1,6 @@
-<img src="https://www.softgozar.com/Image/Softwares/Thumbnail/Udemy_Machine_Learning_A-Z_Hands-On_Python_and_R_In_Data_Science_SoftGozar.com.png" align="right" width="25%"/>
+<img src="https://www.softgozar.com/Image/Softwares/Thumbnail/Udemy_Machine_Learning_A-Z_Hands-On_Python_and_R_In_Data_Science_SoftGozar.com.png" align="right" width="24%"/>
 
-# Machine Learning A-Z™: Hands-On Python & R In Data Science
+# Machine Learning A-Z: Hands-On Python & R In Data Science
 
 > IDE
 
